@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1669256489204.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "7636E012",
+    "lastKnownWriteTime" : 1669272004,
+    "last_content_update" : 1669272004,
+    "path" : "F:/projects/personalwebsite_rstudio/config/_default/config.yaml",
+    "project_path" : "config/_default/config.yaml",
+    "properties" : {
+        "cursorPosition" : "7,38",
+        "scrollLine" : "0",
+        "source_window_id" : "wyr1zehxjcimp"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
