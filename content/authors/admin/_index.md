@@ -46,6 +46,6 @@ superuser: true
 title: Benjamin Zhu
 ---
 
-I am a Medical Student at the University of Pittsburgh. Prior to medical school, I was a data scientist. My research interests include health disparities and policy interventions to address them, 
+I am a medical student at the University of Pittsburgh. Prior to medical school, I was a data scientist. My research interests include health disparities and policy interventions to address them. 
 
 {{< icon name="download" pack="fas" >}} Download my {{<staticref "/docs/CV_Fall_2022.pdf" "newtab">}}CV{{< /staticref >}}.

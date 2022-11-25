@@ -26,3 +26,5 @@ static references such as the CV link must be in the content folder; currently i
 hugo in the thing and then cd to personalwebsite/public
 
 git commit -am "blah blah commit message"
+
+git push -u origin master
