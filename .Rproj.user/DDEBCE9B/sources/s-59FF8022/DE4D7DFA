@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "1141966197",
     "id" : "DE4D7DFA",
-    "lastKnownWriteTime" : 1669262198,
-    "last_content_update" : 1669262198,
+    "lastKnownWriteTime" : 1669337229,
+    "last_content_update" : 1669337229693,
     "path" : "F:/projects/personalwebsite_rstudio/config/_default/menus.yaml",
     "project_path" : "config/_default/menus.yaml",
     "properties" : {
-        "cursorPosition" : "12,18",
+        "cursorPosition" : "25,0",
         "scrollLine" : "0",
         "source_window_id" : "whytw9v262tai"
     },
